@@ -1,0 +1,7 @@
+// My Graph
+digraph {
+	A [label="Node A" shape=box]
+	B [label="Node B" shape=box]
+	C [label="Node C" shape=box]
+	A -> B
+}
