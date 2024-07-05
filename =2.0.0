@@ -1,9 +1,4 @@
-Requirement already satisfied: portalocker in /home/loveplay1983/Workstation/Anaconda/anaconda/envs/torch/lib/python3.11/site-packages (2.7.0)
 Collecting portalocker
   Downloading portalocker-2.10.0-py3-none-any.whl (18 kB)
 Installing collected packages: portalocker
-  Attempting uninstall: portalocker
-    Found existing installation: portalocker 2.7.0
-    Uninstalling portalocker-2.7.0:
-      Successfully uninstalled portalocker-2.7.0
 Successfully installed portalocker-2.10.0
